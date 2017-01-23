@@ -70,7 +70,7 @@ import edu.cs2335.antlab.pkg3.*;
                   //Person4 replace P4 with your name
                   //and gburdell4 with your gt id
                   Person4 p4 = new Person4("P4");
-                  toPrint += p4.toString("gburdell4");
+                  toPrint += p4.toString("dhaas7");
                   //Person5 replace P4 with your name
                   //and gburdell5 with your gt id
                   Person5 p5 = new Person5("P5");
