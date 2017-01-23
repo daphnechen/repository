@@ -1,11 +1,11 @@
-package edu.gatech.oad.antlab.person;
+package main.java.edu.gatech.oad.antlab.person;
 
 /**
  *  A simple class for person 1
  *  returns their name and a
  *  modified string 
  *  
- *  @author Bob
+ *  @author Vamshi Adimulam
  *  @version 1.1
  */
 public class Person1 {
