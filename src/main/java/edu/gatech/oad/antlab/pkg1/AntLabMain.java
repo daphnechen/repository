@@ -74,7 +74,7 @@ import edu.cs2335.antlab.pkg3.*;
                   //Person5 replace P4 with your name
                   //and gburdell5 with your gt id
                   Person5 p5 = new Person5("Kevin Lieu");
-                  toPrint += p5.toString("903036316");
+                  toPrint += p5.toString("klieu6");
 		  
         System.out.println(toPrint);
         
