@@ -69,12 +69,12 @@ import edu.cs2335.antlab.pkg3.*;
 		  toPrint += p3.toString("gburdell3");
                   //Person4 replace P4 with your name
                   //and gburdell4 with your gt id
-                  Person4 p4 = new Person4("P4");
+                  Person4 p4 = new Person4("Derian Haas");
                   toPrint += p4.toString("dhaas7");
                   //Person5 replace P4 with your name
                   //and gburdell5 with your gt id
                   Person5 p5 = new Person5("Kevin Lieu");
-                  toPrint += p5.toString("903036316");
+                  toPrint += p5.toString("klieu6");
 		  
         System.out.println(toPrint);
         
