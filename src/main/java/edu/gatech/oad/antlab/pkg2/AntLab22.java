@@ -1,4 +1,4 @@
-package main.java.edu.gatech.oad.antlab.pkg2;
+package edu.gatech.oad.antlab.pkg2;
 
 
 
