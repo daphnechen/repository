@@ -1,0 +1,17 @@
+defaultTasks 'jar'
+apply plugin: 'java'
+
+dependencies {
+
+}
+
+jar {
+    manifest {
+        attributes(
+                "CLass-Path": "../../lib/resources.jar", "Main-Class": )
+    }
+}
+
+repositories {
+    mavenCentral()
+}
